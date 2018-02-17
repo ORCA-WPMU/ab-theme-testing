@@ -1,0 +1,53 @@
+Plugin Name: A/B Theme Testing Plugin
+
+Original Author: Aaron Edwards at uglyrobot.com (for Incsub)
+Modifications done by Andi Becker at lisandi.com start 15/02/2018
+
+Change Log:
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+1.4.0 - 15/02/2018
+----------------------------------------------------------------------
+- adding license.txt
+- adding readme.md
+
+1.3.2 - 1/3/2014
+----------------------------------------------------------------------
+- Fix tracking code not working with asynchronus GA
+- Added notice to themes page to prevent confusion when you can't change themes with the test active
+- Fix various php notices
+
+1.3.1 - 10/31/2013
+----------------------------------------------------------------------
+- Remove disabled old admin tracking option
+- Text changes to avoid confusion
+
+1.3 - 10/17/2013
+----------------------------------------------------------------------
+- Use events to send custom vars instead of pageviews to maintain bounce rate
+
+1.2 - 10/09/2013
+----------------------------------------------------------------------
+- Fully internationalize with abt textdomain
+
+1.1 - 10/03/2013
+----------------------------------------------------------------------
+- Add support for Child themes
+- Add support for GA async tracking code
+- Various improvements
+
+1.0.2 - 05/03/2011
+----------------------------------------------------------------------
+- Make GA code field bigger for newer accounts.
+
+1.0.1 - 02/08/2011
+----------------------------------------------------------------------
+- Initial WPMU DEV Release.
+
+1.0.0 - 09/25/2009
+----------------------------------------------------------------------
+- Initial Release.
+
+
+403900-1511251281-ai
